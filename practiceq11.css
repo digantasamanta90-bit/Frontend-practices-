@@ -1,0 +1,30 @@
+.navbar {
+  background-color: pink;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+li {
+  list-style-type: none;
+  background-color: aquamarine;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+#div1{
+    height: 400px;
+    width: 400px;
+    background-color: pink; 
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+#div2{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}

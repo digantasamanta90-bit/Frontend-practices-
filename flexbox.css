@@ -1,0 +1,56 @@
+body {
+  text-align: center;
+  margin-top: 15%;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  
+}
+
+#container {
+  width: 800px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-left: 25%;
+}
+
+.box1 {
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+#box2 {
+  background-color: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#box3 {
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#box4 {
+  background-color: greenyellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#box5 {
+  background-color: palegoldenrod;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
